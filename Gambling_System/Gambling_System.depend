@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672020433 source:c:\users\johna\onedrive\documents\codeblocks\gambling_system\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
